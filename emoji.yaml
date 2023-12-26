@@ -241,6 +241,11 @@
     link: https://www.un.org/en/observances/human-spaceflight-day
     type: UN
 
+"2024-04-10":
+  - day_name: Eid al-Fitr 
+    emoji: ☪️
+    link: https://en.wikipedia.org/wiki/Eid_al-Fitr
+    type: UN
 # "04-12": #   day_name: World Chagas Disease Day [WHO]
   #   emoji: 🦟
   #   link: https://www.who.int/news-room/events/detail/2023_World_Chagas_Disease_Day
