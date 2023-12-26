@@ -1,0 +1,1279 @@
+"01-04":
+  - day_name: World Braille Day
+    emoji: ⣿
+    link: https://www.un.org/en/observances/braille-day
+    type: UN
+
+"01-24":
+  - day_name: International Day of Education
+    emoji: 🎓
+    link: https://www.un.org/en/observances/education-day
+    type: UN
+
+"01-26":
+  - day_name: International Day of Clean Energy
+    emoji: ⚡️
+    link: https://www.irena.org/News/pressreleases/2023/Aug/UN-Declares-IRENAs-Founding-Date-as-International-Day-for-Clean-Energy
+    type: UN
+  - day_name: Republic Day (India)
+    emoji: 🇮🇳
+    link: https://en.wikipedia.org/wiki/Republic_Day_(India)
+    type: IN
+  - day_name: Australia Day
+    emoji: 🇦🇺
+    link: https://en.wikipedia.org/wiki/Australia_Day
+    type: AU
+
+"01-27":
+  - day_name: International Day of Commemoration in Memory of the Victims of the Holocaust
+    emoji: 🕯️
+    link: https://www.un.org/en/holocaustremembrance/observance/
+    type: UN
+
+"02-01":
+  - day_name: World Interfaith Harmony Week
+    emoji: 🛐
+    link: https://www.un.org/en/observances/interfaith-harmony-week
+    type: UN
+
+"02-04":
+  - day_name: International Day of Human Fraternity
+    emoji: 🤝
+    link: https://www.un.org/en/observances/human-fraternity
+    type: UN
+
+"02-11":
+  - day_name: International Day of Women and Girls in Science
+    emoji: 👩‍🔬
+    link: https://www.un.org/en/observances/women-and-girls-in-science-day/
+    type: UN
+
+"02-12":
+  - day_name: International Day for the Prevention of Violent Extremism as and when Conducive to Terrorism
+    emoji: ☮️
+    link: https://www.un.org/en/observances/prevention-extremism-when-conducive-terrorism-day
+    type: UN
+
+"02-13":
+  - day_name: World Radio Day
+    emoji: 📻
+    link: https://www.un.org/en/observances/radio-day
+    type: UN
+
+"02-17":
+  - day_name: Global Tourism Resilience Day
+    emoji: 🛄
+    link: https://www.un.org/en/observances/tourism-resilience-day
+    type: UN
+
+"02-20":
+  - day_name: World Day of Social Justice
+    emoji: ⚖️
+    link: https://www.un.org/en/observances/social-justice-day
+    type: UN
+
+"02-21":
+  - day_name: International Mother Language Day
+    emoji: 🗣️
+    link: https://www.un.org/en/observances/mother-language-day
+    type: UN
+
+"03-01":
+  - day_name: World Seagrass Day
+    emoji: 🌱
+    link: https://www.un.org/en/observances/seagrass-day
+    type: UN
+
+# "03-01":
+#   day_name: Zero Discrimination Day [UNAIDS]
+#   emoji: ⭕
+# #   link: https://www.unaids.org/en/20220301_zerodiscrimination
+# type: UN
+
+"03-03":
+  - day_name: World Wildlife Day
+    emoji: 🐾
+    link: https://www.un.org/en/observances/world-wildlife-day
+    type: UN
+
+"03-05":
+  - day_name: International Day for Disarmament and Non-Proliferation Awareness
+    emoji: ☮️
+    link: https://www.un.org/en/observances/disarmament-non-proliferation-awareness-day
+    type: UN
+
+"03-08":
+  - day_name: International Women's Day
+    emoji: 🦸🏾‍♀️
+    link: https://www.un.org/en/observances/womens-day
+    type: UN
+
+"03-10":
+  - day_name: International Day of Women Judges
+    emoji: 👩‍⚖️
+    link: https://www.un.org/en/observances/women-judges-day
+    type: UN
+
+# "03-15":
+#   day_name: International Day to Combat Islamophobia
+#   emoji: 🤝
+#   link: http://undocs.org/en/A/RES/76/254
+# type: UN
+
+"03-20":
+  - day_name: International Day of Happiness
+    emoji: 😊
+    link: https://www.un.org/en/observances/happiness-day
+    type: UN
+
+  - day_name: French Language Day
+    emoji: 🇫🇷
+    link: https://www.un.org/fr/observances/french-language-day/
+    type: UN
+
+# # "03-21":
+# - #   day_name: Week of Solidarity with the Peoples Struggling against Racism and Racial Discrimination
+#   #   emoji: ✊
+#   #   link: http://undocs.org/en/A/RES/34/24
+# type: UN
+
+"03-21":
+  - day_name: International Day for the Elimination of Racial Discrimination
+    emoji: ✊🏿
+    link: https://www.un.org/en/observances/end-racism-day
+    type: UN
+
+  - day_name: World Poetry Day
+    emoji: 📜
+    link: https://en.unesco.org/commemorations/worldpoetryday
+    type: UN
+
+
+#   day_name: International Day of Nowruz
+  #   emoji: 🌱
+  #   link: http://undocs.org/en/A/RES/64/253
+  # type: UN
+
+
+#   day_name: World Down Syndrome Day
+  #   emoji: 🧦
+  #   link: http://undocs.org/en/A/RES/66/149
+  # type: UN
+
+  - day_name: International Day of Forests
+    emoji: 🌲
+    link: http://undocs.org/en/A/RES/67/200
+    type: UN
+
+"03-22":
+  - day_name: World Water Day
+    emoji: 💧
+    link: http://undocs.org/en/A/RES/47/193
+    type: UN
+
+"03-23":
+  - day_name: World Meteorological Day
+    emoji: 🌦️
+    link: https://worldmetday.wmo.int/
+    type: UN
+
+"03-24":
+  - day_name: World Tuberculosis Day
+    emoji: 🦠
+    link: https://www.who.int/campaigns/world-tb-day/
+    type: UN
+  - day_name: International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims
+    emoji: ⚖️
+    link: https://www.un.org/en/observances/right-to-truth-day
+    type: UN
+
+"03-25":
+  - day_name: International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade
+    emoji: ⛓️‍💥 # https://emojipedia.org/broken-chain (15.1)
+    link: https://www.un.org/en/rememberslavery/observance
+    type: UN
+
+# "03-25":
+ #   day_name: International Day of Solidarity with Detained and Missing Staff Members
+  #   emoji: 🫥
+  #   link: http://undocs.org/en/A/RES/49/59
+  # type: UN
+
+"03-30":
+  - day_name: International Day of Zero Waste
+    emoji: 🗑️
+    link: https://www.un.org/en/observances/zero-waste-day
+    type: UN
+
+"04-02":
+  -  day_name: World Autism Awareness Day
+     emoji: 🧩
+     link: https://www.un.org/en/observances/autism-day
+     type: UN
+
+"04-04":
+    - day_name: International Day for Mine Awareness and Assistance in Mine Action
+      emoji: 💣
+      link: https://www.un.org/en/observances/mine-awareness-day
+      type: UN
+
+"04-05":
+  - day_name: International Day of Conscience
+    emoji: 💭
+    link: https://www.un.org/en/observances/conscience-day
+    type: UN
+
+"04-06":
+  - day_name: International Day of Sport for Development and Peace
+    emoji: 🏆
+    link: https://www.un.org/en/observances/sport-day
+    type: UN
+
+# "04-07":
+#   day_name: International Day of Reflection on the 1994 Genocide against the Tutsi in Rwanda
+  #   emoji: 🕊️
+  #   link: http://undocs.org/en/A/RES/58/234
+  # type: UN
+
+"04-07":
+  - day_name: International Day of Human Space Flight
+    emoji: 🧑🏾‍🚀
+    link: https://www.un.org/en/observances/human-spaceflight-day
+    type: UN
+
+# "04-12": #   day_name: World Chagas Disease Day [WHO]
+  #   emoji: 🦟
+  #   link: https://www.who.int/news-room/events/detail/2023_World_Chagas_Disease_Day
+  # type: UN
+
+"04-14":
+  - day_name: Chinese Language Day
+    emoji: 🈯
+    link: https://www.un.org/zh/observances/chinese-language-day
+    type: UN
+
+"04-20":
+  - day_name: World Creativity and Innovation Day
+    emoji: 🎨
+    link: https://www.un.org/en/observances/creativity-and-innovation-day
+    type: UN
+
+"04-21":
+  - day_name: International Mother Earth Day
+    emoji: 🌍
+    link: https://www.un.org/en/observances/earth-day
+    type: UN
+
+"04-22":
+  - day_name: World Book and Copyright Day
+    emoji: 📚
+    link: https://en.unesco.org/commemorations/worldbookday
+    type: UN
+  - day_name: Earth Day
+    emoji: 🌎
+    link: https://en.wikipedia.org/wiki/Earth_Day
+    type: UN
+
+"04-23":
+  - day_name: English Language Day
+    emoji: 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+    link: https://www.un.org/en/observances/english-language-day
+    type: UN
+
+  - day_name: Spanish Language Day
+    emoji: 🇪🇸
+    link: https://www.un.org/es/observances/spanish-language-day
+    type: UN
+
+"04-24":
+  - day_name: World Immunization Week (24-30 April)
+    emoji: 💉
+    link: https://www.who.int/campaigns/world-immunization-week/world-immunization-week-2023
+    type: UN
+
+  - day_name: International Day of Multilateralism and Diplomacy for Peace
+    emoji: ☮️
+    link: https://www.un.org/en/observances/Multilateralism-for-Peace-day
+    type: UN
+
+"04-25":
+  - day_name: World Malaria Day
+    emoji: 🦟
+    link: https://www.who.int/campaigns/world-malaria-day/
+    type: UN
+
+# "04-25":
+#   - day_name: "International Delegate's Day"
+#     emoji: 🕊️
+#     link: http://undocs.org/en/A/RES/73/286
+# type: UN
+
+"04-26":
+  - day_name: International Chernobyl Disaster Remembrance Day
+    emoji: ☢️
+    link: https://www.un.org/en/observances/chernobyl-remembrance-day
+    type: UN
+
+  - day_name: World Intellectual Property Day
+    emoji: ©️
+    link: https://www.wipo.int/ip-outreach/en/ipday/
+    type: UN
+
+  - day_name: International Girls in "Information and Communications Technology" Day
+    emoji: 👩‍💻
+    link: https://www.itu.int/en/wgirls-ict/Pages/default.aspx
+    type: UN
+
+"04-27":
+  - day_name: World Day for Safety and Health at Work
+    emoji: 🦺
+    link: https://www.un.org/en/observances/work-safety-day
+    type: UN
+
+"04-28":
+  - day_name: International Jazz Day
+    emoji: 🎷
+    link: https://www.un.org/en/observances/jazz-day
+    type: UN
+
+"04-30":
+  - day_name: World Tuna Day
+    emoji: 🐟
+    link: https://www.un.org/en/observances/tuna-day
+    type: UN
+
+"05-02":
+  - day_name: World Press Freedom Day
+    emoji: 📰
+    link: https://www.un.org/en/observances/press-freedom-day
+    type: UN
+
+"05-03":
+  - day_name: Vesak, the Day of the Full Moon
+    emoji: 🌕
+    link: https://www.un.org/en/observances/vesak-day
+    type: UN
+
+"05-05":
+  - day_name: World Portuguese Language Day
+    emoji: 🇵🇹
+    link: https://en.unesco.org/commemorations/portuguese-language-day
+    type: UN
+
+  - day_name: Time of Remembrance and Reconciliation for Those Who Lost Their Lives During the Second World War
+    emoji: 🕯️
+    link: https://www.un.org/en/observances/second-world-war-remembrance-days
+    type: UN
+  - day_name: Cinco de Mayo
+    emoji: 🇲🇽
+    link: https://en.wikipedia.org/wiki/Cinco_de_Mayo
+    type: MX
+
+"05-08":
+  - day_name: International Day of Argania
+    emoji: 🌳
+    link: https://www.un.org/en/observances/argania-day
+    type: UN
+
+"05-10":
+  - day_name: International Day of Plant Health
+    emoji: 🌱
+    link: https://www.fao.org/plant-health-day/en
+    type: UN
+
+"05-12":
+  - day_name: World Migratory Bird Day
+    emoji: 🕊️
+    link: https://www.worldmigratorybirdday.org/
+    type: UN
+
+# "05-13":
+#   - day_name: UN Global Road Safety Week (biennial) [WHO]
+#     emoji: 🚗
+#     link: https://www.who.int/campaigns/un-global-road-safety-week
+# type: UN
+
+"05-15":
+  - day_name: International Day of Families
+    emoji: 👨‍👩‍👦
+    link: https://www.un.org/en/observances/international-day-of-families
+    type: UN
+
+  - day_name: International Day of Living Together in Peace
+    emoji: ☮️
+    link: https://www.un.org/en/observances/living-in-peace-day
+    type: UN
+
+"05-16":
+  - day_name: International Day of Light
+    emoji: 💡
+    link: https://www.unesco.org/en/days/light
+    type: UN
+
+  - day_name: World Telecommunication and Information Society Day
+    emoji: 📡
+    link: https://www.itu.int/en/wtisd
+    type: UN
+
+"05-17":
+  - day_name: World Bee Day
+    emoji: 🐝
+    link: https://www.un.org/en/observances/bee-day
+    type: UN
+
+"05-20":
+  - day_name: International Tea Day
+    emoji: 🍵
+    link: https://www.un.org/en/observances/tea-day
+    type: UN
+
+# "05-21":
+#   - day_name: World Day for Cultural Diversity for Dialogue and Development
+#     emoji: 🌐
+#     link: http://undocs.org/en/A/RES/57/249
+# type: UN
+
+"05-21":
+  - day_name: International Day for Biological Diversity
+    emoji: 🐾
+    link: https://www.un.org/en/observances/biological-diversity-day
+    type: UN
+
+# "05-22":
+#   - day_name: International Day to End Obstetric Fistula
+#     emoji: 🤰
+#     link: http://undocs.org/en/A/RES/67/147
+# type: UN
+
+"06-01":
+  - day_name: Global Day of Parents
+    emoji: 👨‍👩‍👧‍👦
+    link: https://www.un.org/en/observances/parents-day
+    type: UN
+
+"06-03":
+  - day_name: World Bicycle Day
+    emoji: 🚴‍♂️
+    link: https://www.un.org/en/observances/bicycle-day
+    type: UN
+
+"06-04":
+  - day_name: International Day of Innocent Children Victims of Aggression
+    emoji: ☮️
+    link: https://www.un.org/en/observances/child-victim-day
+    type: UN
+
+"06-05":
+  - day_name: World Environment Day
+    emoji: 🌳
+    link: https://www.worldenvironmentday.global
+    type: UN
+
+  - day_name: International Day for the Fight against Illegal, Unreported and Unregulated Fishing
+    emoji: 🎣
+    link: https://www.un.org/en/observances/end-illegal-fishing-day
+    type: UN
+
+"06-06":
+  - day_name: Russian Language Day
+    emoji: 🇷🇺
+    link: https://www.un.org/ru/observances/russian-language-day
+    type: UN
+
+"06-07":
+  - day_name: World Food Safety Day
+    emoji: 🍲
+    link: https://www.who.int/campaigns/world-food-safety-day
+    type: UN
+
+"06-08":
+  - day_name: World Oceans Day
+    emoji: 🌊
+    link: https://www.worldoceansday.org
+    type: UN
+
+"06-12":
+  - day_name: World Day Against Child Labour
+    emoji: 🧒🏾
+    link: https://www.ilo.org/ipec/Campaignandadvocacy/wdacl/lang--en/index.htm
+    type: UN
+
+# "06-13":
+#   - day_name: International Albinism Awareness Day
+#     emoji: ⚪
+#     link: https://www.un.org/en/observances/albinism-day
+# type: UN
+
+"06-14":
+  - day_name: World Blood Donor Day
+    emoji: 🩸
+    link: https://www.who.int/campaigns/world-blood-donor-day
+    type: UN
+
+"06-15":
+  - day_name: World Elder Abuse Awareness Day
+    emoji: 👴🏾
+    link: https://www.un.org/en/observances/elder-abuse-awareness-day
+    type: UN
+
+"06-16":
+  - day_name: International Day of Family Remittances
+    emoji: 💸
+    link: https://www.un.org/en/observances/remittances-day
+    type: UN
+
+"06-17":
+  - day_name: World Day to Combat Desertification and Drought
+    emoji: 🏜️
+    link: https://www.un.org/en/observances/desertification-day
+    type: UN
+
+"06-18":
+  - day_name: International Day for Countering Hate Speech
+    emoji: 🔇
+    link: https://www.un.org/en/observances/countering-hate-speech
+    type: UN
+
+  - day_name: Sustainable Gastronomy Day
+    emoji: 🍽️
+    link: https://www.un.org/en/observances/sustainable-gastronomy-day
+    type: UN
+
+"06-19":
+  - day_name: International Day for the Elimination of Sexual Violence in Conflict
+    emoji: ⛔
+    link: https://www.un.org/en/observances/end-sexual-violence-in-conflict-day
+    type: UN
+
+# The refugee flag emoji is not supported in most places yet
+"06-20":
+  - day_name: World Refugee Day
+    emoji: 🏳‍🟧‍⬛‍🟧 # https://emojipedia.org/refugee-nation-flag
+    link: https://www.un.org/en/observances/refugee-day
+    type: UN
+
+"06-21":
+  - day_name: International Day of Yoga
+    emoji: 🧘‍♂️
+    link: https://www.un.org/en/observances/yoga-day
+    type: UN
+
+  - day_name: International Day of the Celebration of the Solstice
+    emoji: ☀️
+    link: https://www.un.org/en/observances/solstice-day
+    type: UN
+
+# "06-23":
+#   - day_name: International Widows' Day
+#     emoji: 👵🖤
+#     link: https://www.un.org/en/observances/widows-day
+#     type: UN
+
+#   - day_name: United Nations Public Service Day
+#     emoji: 🌐👥
+#     link: https://www.un.org/en/observances/public-service-day
+#     type: UN
+
+"06-24":
+  - day_name: International Day of Women in Diplomacy
+    emoji: 👩‍💼
+    link: https://www.un.org/en/observances/women-in-diplomacy-day
+    type: UN
+
+"06-25":
+  - day_name: Day of the Seafarer
+    emoji: 🚢
+    link: https://www.imo.org/en/About/Events/Pages/Day-of-the-Seafarer-2023.aspx
+    type: UN
+
+"06-26":
+  - day_name: International Day against Drug Abuse and Illicit Trafficking
+    emoji: 🚭
+    link: https://www.un.org/en/observances/end-drug-abuse-day
+    type: UN
+
+  - day_name: United Nations International Day in Support of Victims of Torture
+    emoji: 🤕
+    link: https://www.un.org/en/observances/torture-victims-day
+    type: UN
+
+"06-27":
+  - day_name: Micro-, Small and Medium-sized Enterprises Day
+    emoji: 🏭💼
+    link: https://www.un.org/en/observances/micro-small-medium-businesses-day
+    type: UN
+
+"06-29":
+  - day_name: International Day of the Tropics
+    emoji: 🏝️🌞
+    link: https://www.un.org/en/observances/tropics-day
+    type: UN
+
+"06-30":
+  - day_name: International Asteroid Day
+    emoji: ☄️ # This is a comet, not an asteroid, but it's the closest emoji
+    link: https://www.un.org/en/observances/asteroid-day
+    type: UN
+
+  - day_name: International Day of Parliamentarism
+    emoji: 🏛️
+    link: https://www.un.org/en/observances/parliamentarism-day
+    type: UN
+
+"07-01":
+  - day_name: International Day of Cooperatives
+    emoji: 🌐 #TODO
+    link: https://www.un.org/en/observances/cooperatives-day
+    type: UN
+  - day_name: Canada Day
+    emoji: 🇨🇦
+    link: https://en.wikipedia.org/wiki/Canada_Day
+    type: CA
+
+"07-04":
+   - day_name: Independence Day (USA)
+     emoji: 🇺🇸
+     link: https://en.wikipedia.org/wiki/Independence_Day_(United_States)
+     type: US
+"07-07":
+  - day_name: World Kiswahili Language Day
+    emoji: 🌍 #TODO
+    link: https://www.unesco.org/en/days/kiswahili-language-day
+    type: UN
+
+"07-11":
+  - day_name: World Population Day
+    emoji: 👥
+    link: https://www.un.org/en/observances/world-population-day
+    type: UN
+
+"07-12":
+  - day_name: International Day of Combating Sand and Dust Storms
+    emoji: 🌪️
+    link: https://www.un.org/en/observances/day-of-combating-sand-and-dust-storms
+    type: UN
+
+"07-14":
+  - day_name: Bastille Day
+    emoji: 🇫🇷
+    link: https://en.wikipedia.org/wiki/Bastille_Day
+    type: FR
+
+"07-15":
+  - day_name: World Youth Skills Day
+    emoji: 👨‍🔧
+    link: https://www.un.org/en/observances/world-youth-skills-day
+    type: UN
+
+"07-18":
+  - day_name: Nelson Mandela International Day
+    emoji: 👴🏿
+    link: http://www.un.org/en/events/mandeladay/
+    type: UN
+
+"07-20":
+  - day_name: International Moon Day
+    emoji: 🌙
+    link: https://www.un.org/en/observances/moon-day
+    type: UN
+
+  - day_name: World Chess Day
+    emoji: ♟️
+    link: https://www.un.org/en/observances/world-chess-day
+    type: UN
+
+"07-25":
+  - day_name: World Drowning Prevention Day
+    emoji: 🏊
+    link: https://www.un.org/en/observances/drowning-prevention-day
+    type: UN
+
+"07-28":
+  - day_name: World Hepatitis Day
+    emoji: 💉
+    link: https://www.who.int/campaigns/world-hepatitis-day
+    type: UN
+
+"07-30":
+  - day_name: International Day of Friendship
+    emoji: 👫
+    link: https://www.un.org/en/observances/friendship-day
+    type: UN
+
+  # - day_name: World Day against Trafficking in Persons
+  #   emoji: ⛔🤝
+  #   link: https://www.un.org/en/observances/end-human-trafficking-day
+  # type: UN
+
+"08-01":
+  - day_name: World Breastfeeding Week [WHO]
+    emoji: 🤱🏾
+    link: https://www.who.int/health-topics/breastfeeding
+    type: UN
+
+# "08-09":
+#   - day_name: International Day of the World's Indigenous Peoples
+#     emoji: 🌏🏞️
+# #     link: https://www.un.org/en/observances/indigenous-day
+# type: UN
+
+"08-11":
+  - day_name: World Steelpan Day
+    emoji: 🥁
+    link: https://www.un.org/en/observances/steelpan-day
+    type: UN
+
+"08-12":
+  - day_name: International Youth Day
+    emoji: 👧
+    link: https://www.un.org/en/observances/youth-day
+    type: UN
+
+"08-19":
+  - day_name: World Humanitarian Day
+    emoji: 🫂
+    link: https://www.un.org/en/observances/humanitarian-day
+    type: UN
+
+"08-21":
+  - day_name: International Day of Remembrance and Tribute to the Victims of Terrorism
+    emoji: 🕯️
+    link: https://www.un.org/en/observances/terrorism-victims-day
+    type: UN
+
+"08-22":
+  - day_name: International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief
+    emoji: 🕯️
+    link: https://www.un.org/en/observances/religious-based-violence-victims-day
+    type: UN
+
+"08-23":
+  - day_name: International Day for the Remembrance of the Slave Trade and Its Abolition
+    emoji: ⛓️‍💥
+    link: https://en.unesco.org/commemorations/remembranceday
+    type: UN
+
+"08-29":
+  - day_name: International Day against Nuclear Tests
+    emoji: ⛔
+    link: https://www.un.org/en/observances/end-nuclear-tests-day
+    type: UN
+
+# "08-30":
+#   - day_name: International Day of the Victims of Enforced Disappearances
+#     emoji: 🤲🕊️
+# #     link: https://www.un.org/en/observances/victims-enforced-disappearance
+# type: UN
+
+"08-31":
+  - day_name: International Day for People of African Descent
+    emoji: 🌍
+    link: https://www.un.org/en/observances/african-descent-day
+    type: UN
+
+"09-05":
+  - day_name: International Day of Charity
+    emoji: ❤️‍🩹
+    link: https://www.un.org/en/observances/charity-day
+    type: UN
+
+"09-07":
+  - day_name: International Day of Police Cooperation
+    emoji: 👮
+    link: https://www.un.org/en/observances/police-cooperation-day
+    type: UN
+
+  - day_name: International Day of Clean Air for Blue Skies
+    emoji: 🌬️
+    link: https://www.un.org/en/observances/clean-air-day
+    type: UN
+
+  - day_name: International Literacy Day
+    emoji: 📚
+    link: https://en.unesco.org/commemorations/literacyday
+    type: UN
+
+"09-09":
+  - day_name: International Day to Protect Education from Attack
+    emoji: 🏫
+    link: https://www.un.org/en/observances/protect-education-day
+    type: UN
+
+"09-12":
+  - day_name: United Nations Day for South-South Cooperation
+    emoji: 🌍
+    link: https://www.un.org/en/observances/south-south-cooperation-day
+    type: UN
+
+"09-15":
+  - day_name: International Day of Democracy
+    emoji: 🗳️
+    link: https://www.un.org/en/observances/democracy-day
+    type: UN
+
+"09-16":
+  - day_name: International Day for Interventional Cardiology
+    emoji: ❤️‍🩹
+    link: https://www.un.org/en/observances/interventional-cardiology-day
+    type: UN
+
+  - day_name: International Day for the Preservation of the Ozone Layer
+    emoji: 🇦🇶
+    link: https://www.un.org/en/observances/ozone-day
+    type: UN
+
+"09-17":
+  - day_name: World Patient Safety Day [WHO]
+    emoji: 🧑🏾‍⚕️
+    link: https://www.who.int/campaigns/world-patient-safety-day/
+    type: UN
+
+"09-18":
+  - day_name: International Equal Pay Day
+    emoji: 🟰
+    link: https://www.un.org/en/observances/equal-pay-day
+    type: UN
+
+"09-21":
+  - day_name: International Day of Peace
+    emoji: ☮️
+    link: https://www.un.org/en/observances/international-day-peace
+    type: UN
+
+"09-23":
+  - day_name: International Day of Sign Languages
+    emoji: 🤟
+    link: https://www.un.org/en/observances/sign-languages-day
+    type: UN
+
+"09-26":
+  - day_name: International Day for the Total Elimination of Nuclear Weapons
+    emoji: ❌
+    link: https://www.un.org/en/observances/nuclear-weapons-elimination-day
+    type: UN
+
+"09-27":
+  - day_name: World Tourism Day
+    emoji: ✈️
+    link: https://www.un.org/en/observances/tourism-day
+    type: UN
+
+"09-28":
+  - day_name: World Maritime Day
+    emoji: 🚢
+    link: https://www.un.org/en/observances/maritime-day
+    type: UN
+
+  - day_name: International Day for Universal Access to Information
+    emoji: ℹ️
+    link: https://www.un.org/en/observances/information-access-day
+    type: UN
+
+"09-29":
+  - day_name: International Day of Awareness of Food Loss and Waste
+    emoji: 🍽️
+    link: https://www.un.org/en/observances/end-food-waste-day/
+    type: UN
+
+"09-30":
+  - day_name: International Translation Day
+    emoji: ↔️
+    link: https://www.un.org/en/observances/international-translation-day
+    type: UN
+
+"10-01":
+  - day_name: International Day of Older Persons
+    emoji: 👵🏾
+    link: https://www.un.org/en/observances/older-persons-day
+    type: UN
+
+"10-02":
+  - day_name: World Habitat Day
+    emoji: 🏠
+    link: https://www.un.org/en/observances/habitat-day
+    type: UN
+  - day_name: Gandhi Jayanti
+    emoji: 🕊️
+    link: https://en.wikipedia.org/wiki/Gandhi_Jayanti
+    type: IN
+
+  - day_name: International Day of Non-Violence
+    emoji: ☮️
+    link: https://www.un.org/en/observances/non-violence-day
+    type: UN
+
+"10-04":
+  - day_name: World Space Week, 4-10 October
+    emoji: 🚀
+    link: https://www.un.org/en/observances/world-space-week
+    type: UN
+
+"10-05":
+  - day_name: "World Teachers' Day"
+    emoji: 🧑🏾‍🏫
+    type: UN
+    link: https://en.unesco.org/commemorations/worldteachersday
+
+"10-07":
+  - day_name: World Cotton Day
+    emoji: 🌼
+    link: https://www.un.org/en/observances/cotton-day
+    type: UN
+
+"10-09":
+  - day_name: World Post Day
+    emoji: 📮
+    link: https://www.un.org/en/observances/world-post-day
+    type: UN
+
+"10-10":
+  - day_name: World Mental Health Day [WHO]
+    emoji: 💚
+    link: http://www.who.int/mental_health/world-mental-health-day/en/
+    type: UN
+
+"10-11":
+  - day_name: International Day of the Girl Child
+    emoji: 👧
+    link: https://www.un.org/en/observances/girl-child-day
+    type: UN
+
+"10-13":
+  - day_name: International Day for Disaster Risk Reduction
+    emoji: 🆘
+    link: https://www.un.org/en/observances/disaster-reduction-day
+    type: UN
+
+"10-14":
+  - day_name: World Migratory Bird Day
+    emoji: 🦅
+    link: http://www.worldmigratorybirdday.org/
+    type: UN
+
+"10-15":
+  - day_name: International Day of Rural Women
+    emoji: 👩🏾‍🌾
+    link: https://www.un.org/en/observances/rural-women-day
+    type: UN
+
+"10-16":
+  - day_name: World Food Day
+    emoji: 🍛
+    link: http://www.fao.org/world-food-day
+    type: UN
+
+# "10-17":
+#   - day_name: International Day for the Eradication of Poverty
+#     emoji: 🚫💰
+#     link: https://www.un.org/en/observances/day-for-eradicating-poverty
+# type: UN
+
+"10-24":
+  - day_name: Global Media and Information Literacy Week, 24-31 October
+    emoji: 📺
+    link: https://www.un.org/en/observances/media-information-literacy-week
+    type: UN
+
+  - day_name: United Nations Day
+    emoji: 🇺🇳
+    link: https://www.un.org/en/observances/un-day
+    type: UN
+
+  - day_name: Disarmament Week, 24-30 October
+    emoji: ☮️
+    link: https://www.un.org/en/observances/disarmament-week
+    type: UN
+
+  - day_name: World Development Information Day
+    emoji: 📊
+    link: https://www.un.org/en/observances/development-information-day
+    type: UN
+
+  - day_name: World Day for Audiovisual Heritage
+    emoji: 🎥
+    link: https://en.unesco.org/commemorations/worldaudiovisualday
+    type: UN
+
+"10-29":
+  - day_name: International Day of Care and Support
+    emoji: 💜
+    link: https://www.un.org/en/observances/care-and-support-day
+    type: UN
+
+"10-31":
+  - day_name: World Cities Day
+    emoji: 🌆
+    link: https://www.un.org/en/observances/cities-day
+    type: UN
+  - day_name: Halloween
+    emoji: 🎃
+    link: https://en.wikipedia.org/wiki/Halloween
+    type: informal
+
+"11-02":
+  - day_name: International Day to End Impunity for Crimes against Journalists
+    emoji: 📰
+    link: https://www.un.org/en/observances/end-impunity-crimes-against-journalists
+    type: UN
+
+"11-05":
+  - day_name: World Tsunami Awareness Day
+    emoji: 🌊
+    link: https://www.un.org/en/observances/tsunami-awareness-day
+    type: UN
+
+"11-06":
+  - day_name: International Day for Preventing the Exploitation of the Environment in War and Armed Conflict
+    emoji: 🌍
+    link: https://www.un.org/en/observances/environment-in-war-protection-day
+    type: UN
+
+"11-09":
+  - day_name: International Week of Science and Peace, 9-15 November
+    emoji: 🔬
+    link: https://www.un.org/en/observances/world-science-day/week
+    type: UN
+
+"11-10":
+  - day_name: World Science Day for Peace and Development
+    emoji: 🌐
+    link: https://www.un.org/en/observances/world-science-day
+    type: UN
+
+"11-13":
+  - day_name: World Antibiotic Awareness Week, 13-19 November [WHO]
+    emoji: 💊
+    link: http://www.who.int/campaigns/world-antibiotic-awareness-week/en/
+    type: UN
+
+"11-14":
+  - day_name: World Diabetes Day
+    emoji: 🩺 #TODO
+    link: https://www.un.org/en/observances/diabetes-day
+    type: UN
+  
+  - day_name: Children's Day
+    emoji: 🧒🏽
+    link: https://en.wikipedia.org/wiki/Children%27s_Day
+    type: IN
+
+
+"11-16":
+  - day_name: World Philosophy Day
+    emoji: 🤔
+    link: https://en.unesco.org/commemorations/philosophyday
+    type: UN
+
+"11-18":
+  - day_name: International Day for Tolerance
+    emoji: 🫂
+    link: https://en.unesco.org/commemorations/toleranceday
+    type: UN
+
+"11-19":
+  - day_name: World Day for the Prevention of and Healing from Child Sexual Exploitation, Abuse and Violence
+    emoji: 🚸
+    link: https://www.un.org/en/observances/child-sexual-exploitation-prevention-and-healing-day
+    type: UN
+
+  - day_name: World Day of Remembrance for Road Traffic Victims
+    emoji: 🚗
+    link: https://www.un.org/en/observances/road-traffic-victims-day
+    type: UN
+
+  - day_name: World Toilet Day
+    emoji: 🚻
+    link: https://www.un.org/en/observances/toilet-day
+    type: UN
+
+  - day_name: Africa Industrialization Day
+    emoji: 🌍
+    link: https://www.un.org/en/observances/africa-industrialization-day
+    type: UN
+
+"11-20":
+  - day_name: World Children's Day
+    emoji: 👶
+    link: https://www.un.org/en/observances/world-childrens-day
+    type: UN
+
+  - day_name: World Television Day
+    emoji: 📺
+    link: https://www.un.org/en/observances/world-television-day
+    type: UN
+
+"11-21":
+  - day_name: International Day for the Elimination of Violence against Women
+    emoji: 💄
+    link: https://www.un.org/en/observances/ending-violence-against-women-day
+    type: UN
+
+"11-25":
+  - day_name: World Sustainable Transport Day
+    emoji: 🚴🏾
+    link: https://www.un.org/en/observances/sustainable-transport-day
+    type: UN
+
+"11-26":
+  - day_name: International Day of Solidarity with the Palestinian People
+    emoji: 🇵🇸
+    link: https://www.un.org/en/observances/international-day-of-solidarity-with-the-palestinian-people
+    type: UN
+
+"11-29":
+  - day_name: Day of Remembrance for all Victims of Chemical Warfare
+    emoji: ☠️
+    link: https://www.un.org/en/observances/chemical-warfare-victims-day
+    type: UN
+
+"12-01":
+  - day_name: World AIDS Day
+    emoji: 🎗️
+    link: https://www.un.org/en/observances/world-aids-day
+    type: UN
+
+"12-02":
+  - day_name: International Day for the Abolition of Slavery
+    emoji: ⛓️‍💥
+    link: https://www.un.org/en/observances/slavery-abolition-day
+    type: UN
+
+"12-03":
+  - day_name: International Day of Persons with Disabilities
+    emoji: ♿
+    link: https://www.un.org/en/observances/day-of-persons-with-disabilities
+    type: UN
+
+"12-04":
+  - day_name: International Day of Banks
+    emoji: 🏦
+    link: https://www.un.org/en/observances/international-day-of-banks
+    type: UN
+
+"12-05":
+  - day_name: International Volunteer Day for Economic and Social Development
+    emoji: 🧑‍🤝‍🧑
+    link: https://www.un.org/en/observances/volunteer-day
+    type: UN
+
+  - day_name: World Soil Day
+    emoji: 🌱
+    link: https://www.un.org/en/observances/world-soil-day
+    type: UN
+
+"12-07":
+  - day_name: International Civil Aviation Day
+    emoji: ✈️
+    link: https://www.un.org/en/observances/civil-aviation-day
+    type: UN
+
+"12-09":
+  - day_name: International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime
+    emoji: 🕯️
+    link: https://www.un.org/en/observances/genocide-prevention-day
+    type: UN
+
+  - day_name: International Anti-Corruption Day
+    emoji: 🚫
+    link: https://www.un.org/en/observances/anti-corruption-day
+    type: UN
+
+"12-10":
+  - day_name: Human Rights Day
+    emoji: 💙
+    link: https://www.un.org/en/observances/human-rights-day
+    type: UN
+
+"12-11":
+  - day_name: International Mountain Day
+    emoji: ⛰️
+    link: https://www.un.org/en/observances/mountain-day
+    type: UN
+
+"12-12":
+  - day_name: International Day of Neutrality
+    emoji: ☮️
+    link: https://www.un.org/en/observances/neutrality-day
+    type: UN
+
+  - day_name: International Universal Health Coverage Day
+    emoji: 🏥
+    link: https://www.un.org/en/observances/universal-health-coverage-day
+    type: UN
+
+# "12-18":
+  # - day_name: Arabic Language Day
+  #   emoji: 📚🌍
+  #   link: https://www.un.org/ar/observances/arabiclanguageday
+  # type: UN
+
+"12-20":
+  - day_name: International Human Solidarity Day
+    emoji: 🤎
+    link: https://www.un.org/en/observances/human-solidarity-day
+    type: UN
+
+"12-21":
+  - day_name: World Basketball Day
+    emoji: 🏀
+    link: https://www.un.org/en/observances/world-basketball-day
+    type: UN
+
+"12-27":
+  - day_name: International Day of Epidemic Preparedness
+    emoji: 😷
+    link: https://www.un.org/en/observances/epidemic-preparedness-day
+    type: UN
+
+"02-14":
+  - day_name: Valentine's Day
+    emoji: 💖
+    link: https://en.wikipedia.org/wiki/Valentine%27s_Day
+    type: informal
+
+"03-17":
+  - day_name: St. Patrick's Day
+    emoji: ☘️
+    link: https://en.wikipedia.org/wiki/Saint_Patrick%27s_Day
+    type: informal
+
+"08-15":
+  - day_name: Independence Day (India)
+    emoji: 🇮🇳
+    link: https://en.wikipedia.org/wiki/Independence_Day_(India)
+    type: IN
+
+"12-25":
+  - day_name: Christmas
+    emoji: 🎄
+    type: informal
+"2024-02-10":
+  - day_name: Chinese New Year
+    emoji: 🧧
+    link: https://en.wikipedia.org/wiki/Chinese_New_Year
+    type: informal
+
+"2024-02-11":
+  - day_name: Super Bowl
+    emoji: 🏈
+    link: https://en.wikipedia.org/wiki/Super_Bowl
+    type: informal
+"2024-03-31":
+  - day_name: Easter
+    emoji: 🐰
+    link: https://en.wikipedia.org/wiki/Easter
+    type: informal
+"2024-06-16":
+  - day_name: Father's Day
+    emoji: 👨
+    link: https://en.wikipedia.org/wiki/Father%27s_Day
+    type: informal
+"2024-06-17":
+  - day_name: Eid al-Adha
+    emoji: 🕌
+    link: https://en.wikipedia.org/wiki/Eid_al-Adha
+    type: informal
+"2024-01-14":
+  - day_name: Makar Sankranti
+    emoji: 🌾
+    type: informal
