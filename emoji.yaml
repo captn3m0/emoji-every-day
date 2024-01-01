@@ -1292,3 +1292,20 @@
   - day_name: Happy New Year
     emoji: 🎉
     type: informal
+"01-02":
+  - day_name: World Introvert Day
+    emoji: 😶
+    type: informal
+  - day_name: National Science Fiction Day
+    emoji: 👾
+    type: informal
+    link: https://www.google.com/search?client=firefox-b-d&q=National+Science+Fiction+Day
+  - day_name: Swiss Cheese Day
+    emoji: 🧀
+    link: https://www.google.com/search?client=firefox-b-d&q=Swiss+Cheese+Day
+    type: informal
+"01-03":
+  - day_name: JRR Tolkien Day
+    emoji: 🧙‍♂️
+    type: informal
+    link: https://www.google.com/search?q=JRR+Tolkien+birthday
