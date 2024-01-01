@@ -1287,3 +1287,8 @@
     emoji: 🎁
     type: informal
     link: https://www.google.com/search?q=boxing day
+
+"01-01":
+  - day_name: Happy New Year
+    emoji: 🎉
+    type: informal
