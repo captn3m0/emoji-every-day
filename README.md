@@ -32,14 +32,20 @@ In some cases, due to unicode standard updates taking time to rollout, the emoji
 as the [Refugee Flag](https://emojipedia.org/refugee-nation-flag) (🏳‍🟧‍⬛‍🟧), which shows up as 4 characters almost everywhere, since
 the proposal isn't accepted yet.
 
-## License
 
-Licensed under the [MIT License](https://nemo.mit-license.org/). 
-See LICENSE file for details.
 
 ## Why
 
 Think of this as a poor man's Google Doodle for any website, where you might have daily refreshes. I'm currently using it for [news.tatooine.club](https://news.tatooine.club),
 where I wanted to put a 🎄 next to the date for Christmas, but extended it to this project. See [Origin Post](https://tatooine.club/@nemo/111647981554186397) for more details.
+
+## Coverage
+
+This currently covers akmost half of the days in 2024. Help is welcome to add more days via PRs or issues.
+
+## License
+
+Licensed under the [MIT License](https://nemo.mit-license.org/). 
+See LICENSE file for details.
 
 [undays]: https://www.un.org/en/observances/list-days-weeks

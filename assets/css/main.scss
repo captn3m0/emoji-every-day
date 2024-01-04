@@ -7,6 +7,12 @@ $today-color: #e74c3c;
 h1 {
   color: $primary-color;
   text-align: center;
+  a{
+    text-decoration: none;
+  }
+  a:visited{
+    color: $primary-color;
+  }
 }
 
 .calendar {
