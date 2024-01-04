@@ -4,3 +4,4 @@ title: "Emoji Every Day" # the name of your site, e.g. ACME Corp.
 exclude:
   - vendor
   - test.py
+description: An Emoji Calendar for 2024, with an emoji picked for (almost) every day. Use this in your own apps to show a quirky date.

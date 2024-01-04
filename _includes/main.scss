@@ -1,8 +1,25 @@
----
----
-@import "base";
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; 
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
+
+footer {
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  font-size: 0.8em;
+  color: #aaa;
+  a {
+    font-size: 1.5em;
+  }
+}
 $primary-color: #3498db;
-$today-color: #e74c3c;
+$today-color: #aa1e13;
 
 h1 {
   color: $primary-color;
@@ -43,6 +60,7 @@ h1 {
       padding: 10px;
       border: 1px solid #ddd;
       text-align: center;
+      font-size: 1.2em;
 
       &.today {
         background-color: $today-color;
@@ -51,7 +69,7 @@ h1 {
       }
 
       .emoji {
-        font-size: 1.2em;
+        
       }
 
       a {

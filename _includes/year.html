@@ -15,7 +15,7 @@
   {% assign D_y = D|date:"%Y-%m-%d"%}
   <div class=day class="day {% if D_x == current_date%}today{% endif %}">
     {{D|date:"%d"}}
-    <div class=emojis>
+    <div class=emoji>
     {% include emoji-date.html date_key=D_x %}
     {% include emoji-date.html date_key=D_y %}
     </div>
@@ -24,7 +24,6 @@
   {% assign new_month =  D|date:"%m" %}
   
   {% if new_month != month %}
-  <!-- close the days and month divs -->
   </div></div>
   {% endif %}
 

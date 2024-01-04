@@ -4,7 +4,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <style>
+      {% capture sass_file %}
+      {% include main.scss %}
+      {% endcapture %}
+      {{ sass_file | scssify }}
+    </style>
+    <meta name="description" content="{{ site.description }}">
   </head>
   <body>
     <h1><a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a></h1>
