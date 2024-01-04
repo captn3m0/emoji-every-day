@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 import yaml
 
-with open('emoji.yaml') as f:
+with open('_data/emoji.yaml') as f:
 	data = yaml.load(f, Loader=yaml.FullLoader)
 available_dates = set(data.keys())
 
