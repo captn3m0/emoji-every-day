@@ -1,0 +1,11 @@
+{% assign emojis = site.data.emoji[include.date_key] | default: empty_array %}
+
+{% if emojis.size > 0 %}
+  {% for event in emojis %}
+    {% if event.link %}
+    <a href="{{ event.link }}" title="{{ event.day_name }}">{{ event.emoji }}</a>
+    {% else %}
+    <span title="{{ event.day_name }}">{{ event.emoji }}</span>
+    {% endif %}
+  {% endfor %}
+{% endif %}

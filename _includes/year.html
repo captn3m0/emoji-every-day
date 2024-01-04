@@ -1,0 +1,31 @@
+{% assign current_date = site.time | date: "%m-%d" %}
+{% assign epoch = 1704068700 %}
+{% assign one_day = 60 | times: 60 | times: 24 %}
+{% assign D = epoch %}
+
+{% for date in (1...366) %}
+  {% assign D_n = D | date:"%d" %}
+  {% if D_n == "01" %}
+    {% assign month = D|date:"%m" %}
+    <div class="month">
+    <h2>{{D|date:"%B"}}</h2>
+    <div class="days">
+  {% endif %}
+  {% assign D_x = D|date:"%m-%d"%}
+  {% assign D_y = D|date:"%Y-%m-%d"%}
+  <div class=day class="day {% if D_x == current_date%}today{% endif %}">
+    {{D|date:"%d"}}
+    <div class=emojis>
+    {% include emoji-date.html date_key=D_x %}
+    {% include emoji-date.html date_key=D_y %}
+    </div>
+  </div>
+  {% assign D = D | plus:one_day %}
+  {% assign new_month =  D|date:"%m" %}
+  
+  {% if new_month != month %}
+  <!-- close the days and month divs -->
+  </div></div>
+  {% endif %}
+
+{% endfor %}

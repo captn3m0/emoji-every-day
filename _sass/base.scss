@@ -1,0 +1,17 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; 
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
+
+footer {
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  font-size: 0.8em;
+  color: #aaa;
+}
