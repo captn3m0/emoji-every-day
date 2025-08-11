@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emoji Calendar 2024
+title: Emoji Calendar
 ---
 <div class="calendar">
   {% include year.html %}

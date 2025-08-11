@@ -722,17 +722,43 @@
 # #     link: https://www.un.org/en/observances/indigenous-day
 # type: UN
 
+"08-10":
+  - day_name: World Lion Day
+    emoji: 🦁
+    link: https://web.archive.org/web/20190201013116/http://worldlionday.com/
+    type: informal
+
 "08-11":
   - day_name: World Steelpan Day
     emoji: 🥁
     link: https://www.un.org/en/observances/steelpan-day
     type: UN
+  - day_name: Día del Primer Grito de Independencia de Quito (Ecuador Independence Day)
+    emoji: 🇪🇨
+    link: https://en.wikipedia.org/wiki/D%C3%ADa_del_Primer_Grito_de_Independencia_de_Quito
+    type: EC
 
 "08-12":
   - day_name: International Youth Day
     emoji: 👧
     link: https://www.un.org/en/observances/youth-day
     type: UN
+
+
+"08-13":
+  - day_name: Central African Republic Independence Day
+    emoji: 🇨🇫
+    link: https://en.wikipedia.org/wiki/Central_African_Republic_Independence_Day
+    type: CF
+  - day_name: International Lefthanders Day
+    emoji: 👈
+    link: https://en.wikipedia.org/wiki/International_Lefthanders_Day
+    type: informal
+  - day_name: National Women's Day (Tunisia)
+    emoji: 👩
+    link: https://en.wikipedia.org/wiki/National_Women%27s_Day_(Tunisia)
+    type: TN
+
 
 "08-19":
   - day_name: World Humanitarian Day
