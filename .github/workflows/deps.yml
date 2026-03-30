@@ -22,7 +22,22 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           submodules: true
+      - name: Skip auto-merge if workflow files changed
+        id: guard
+        run: |
+          set -euo pipefail
+          files="$(gh pr view "$PR_URL" --json files --jq '.files[].path')"
+          if echo "$files" | grep -qE '^\.github/workflows/'; then
+            echo "Workflows changed; skipping auto-merge."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+        env:
+          PR_URL: ${{github.event.pull_request.html_url}}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - name: Enable auto-merge for Dependabot PRs for release data
+        if: steps.guard.outputs.skip != 'true'
         run: gh pr merge --auto --rebase "$PR_URL"
         env:
           PR_URL: ${{github.event.pull_request.html_url}}
